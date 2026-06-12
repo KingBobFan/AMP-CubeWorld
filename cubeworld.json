@@ -7,5 +7,6 @@
     "Category": "Games",
     "SupportedPlatforms": ["Linux"],
     "Tags": ["Wine", "Classic", "Modded"],
-    "ConfigFileName": "cubeworld.kvp"
+    "ConfigFileName": "cubeworld.kvp",
+    "ConfigType": "kvp"
 }
