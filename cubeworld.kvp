@@ -8,6 +8,10 @@ Executable=ServerModLauncher.exe
 Arguments=
 WineMode=True
 WorkingDirectory=./
+UpdateSourceType=URL
+UpdateSourceURL=https://github.com/KingBobFan/AMP-CubeWorld/releases/download/CURRENT/cubeworld-server.zip
+UpdateSourceExtract=True
+AutoUpdate=True
 
 [StandardSettings]
 Category=Cube World Settings
@@ -16,5 +20,3 @@ Description=The UDP port the server will listen on.
 Type=Integer
 DefaultValue=12345
 ConfigPath=server.cfg
-# Note: Adjust ConfigPath if server.cfg contains complex formatting, 
-# otherwise AMP can manage it via generic text token replacements.
