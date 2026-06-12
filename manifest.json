@@ -8,6 +8,5 @@
     "Prefix": "kbf-",
     "Configurations": [
         "cubeworld-modded"
-    ],
-    "ConfigType": "kvp"
+    ]
 }
