@@ -7,6 +7,8 @@
         "UpdateSourceArgs": "https://github.com/KingBobFan/AMP-CubeWorld/",
         "UnzipUpdateSource": false,
         "OverwriteExistingFiles": false,
+        "UpdateSourceConditionSetting": "GitHubDownload",
+        "UpdateSourceConditionValue": "true",
         "DeleteAfterExtract": true,
         "OneShot": false
     }
