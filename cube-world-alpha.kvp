@@ -1,7 +1,7 @@
 Meta.DisplayName=Cube World Alpha
 Meta.Description=Cube World Alpha on Wine
 Meta.Arch=x86_64
-Meta.Author= - Made with AMP Config Generator
+Meta.Author= Liam Barrow
 Meta.URL=
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=cubecoders/ampbase:wine
