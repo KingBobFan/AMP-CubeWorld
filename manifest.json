@@ -1,0 +1,12 @@
+{
+    "Metadata": {
+        "Name": "KingBobFan Custom Templates",
+        "Description": "Custom generic game server configurations for AMP.",
+        "Author": "KingBobFan",
+        "Url": "https://github.com/KingBobFan/AMP-CubeWorld"
+    },
+    "Prefix": "kbf-",
+    "Configurations": [
+        "cubeworld-modded"
+    ]
+}
