@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "Server Files",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "cubeworld-server.zip",
+        "UpdateSourceArgs": "https://github.com/KingBobFan/AMP-CubeWorld/",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]

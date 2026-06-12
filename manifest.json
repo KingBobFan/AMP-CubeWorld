@@ -1,12 +1,10 @@
 {
-    "Metadata": {
-        "Name": "KingBobFan Custom Templates",
-        "Description": "Custom generic game server configurations for AMP.",
-        "Author": "KingBobFan",
-        "Url": "https://github.com/KingBobFan/AMP-CubeWorld"
-    },
-    "Prefix": "kbf-",
-    "Configurations": [
-        "cubeworld-modded"
-    ]
+    "id": "2bff949b-a4cd-43d1-8aed-142b0123fc44",
+    "authors": [
+        " - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/ - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/ - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": " - Made with AMP Config Generator"
 }
