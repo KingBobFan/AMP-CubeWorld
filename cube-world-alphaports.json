@@ -5,5 +5,12 @@
         "Name": "Main Game Port",
         "Description": "Port used for main game traffic",
         "Ref": "MainGamePort"
+    },
+    {
+        "Protocol": "TCP",
+        "Port": "12346",
+        "Name": "Remote Admin Port",
+        "Description": "Port used for main game traffic",
+        "Ref": "RemoteAdminPort"
     }
 ]
