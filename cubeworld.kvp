@@ -13,6 +13,9 @@ UpdateSourceURL=https://github.com/KingBobFan/AMP-CubeWorld/releases/download/CU
 UpdateSourceExtract=True
 AutoUpdate=True
 
+[CustomPorts]
+App.Ports=[{"Protocol":1,"Port":12345,"Offset":0,"Range":1,"Ref":"MainGamePort","Name":"Server Port","Description":"The UDP port the server will listen on.","IsDelayedOpen":false,"Hidden":false,"ChildPorts":null,"Required":true}]
+
 [StandardSettings]
 Category=Cube World Settings
 Name=Server Port
