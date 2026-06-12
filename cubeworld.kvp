@@ -1,0 +1,20 @@
+#include "generic.kvp"
+
+[Generic]
+ApplicationName=Cube World Alpha (Modded)
+Identifier=cubeworld-modded
+Description=Modded Cube World Alpha Server using ServerModLauncher and Wine.
+Executable=ServerModLauncher.exe
+Arguments=
+WineMode=True
+WorkingDirectory=./
+
+[StandardSettings]
+Category=Cube World Settings
+Name=Server Port
+Description=The UDP port the server will listen on.
+Type=Integer
+DefaultValue=12345
+ConfigPath=server.cfg
+# Note: Adjust ConfigPath if server.cfg contains complex formatting, 
+# otherwise AMP can manage it via generic text token replacements.

@@ -1,0 +1,11 @@
+{
+    "TemplateName": "Cube World Alpha (Modded)",
+    "AppId": "cubeworld-modded",
+    "AppConfigId": "cubeworld-modded",
+    "ModuleType": "GenericModule",
+    "Description": "Cube World Alpha Dedicated Server running via Wine with ServerModLauncher.",
+    "Category": "Games",
+    "SupportedPlatforms": ["Linux"],
+    "Tags": ["Wine", "Classic", "Modded"],
+    "ConfigFileName": "cubeworld.kvp"
+}
